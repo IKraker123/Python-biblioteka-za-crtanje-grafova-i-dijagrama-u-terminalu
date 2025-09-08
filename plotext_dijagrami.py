@@ -137,4 +137,5 @@ def vertikalni_timeline():
 #histogram_vertikalni()
 #horizontalni_timeline()
 #jednostavni_timeline()
-vertikalni_timeline()
+#vertikalni_timeline()
+
