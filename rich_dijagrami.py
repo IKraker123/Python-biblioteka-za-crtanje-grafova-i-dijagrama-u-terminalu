@@ -264,8 +264,8 @@ def vertikalni_histogram(broj_intervala = 20, height=20):
 # -----------------------------
 # POZIVI (po želji komentiraj/otkomentiraj)
 # -----------------------------
-ispis_naslova("VERTIKALNI STUPČASTI DIJAGRAM")
-vertikalni_stupcasti()
+#ispis_naslova("VERTIKALNI STUPČASTI DIJAGRAM")
+#vertikalni_stupcasti()
 
 #ispis_naslova("HORIZONTALNI STUPČASTI DIJAGRAM")
 #horizontalni_stupcasti()
@@ -286,4 +286,5 @@ vertikalni_stupcasti()
 #horizontalni_histogram()
 
 #ispis_naslova("HISTOGRAM vertikalni")
+
 #vertikalni_histogram()
