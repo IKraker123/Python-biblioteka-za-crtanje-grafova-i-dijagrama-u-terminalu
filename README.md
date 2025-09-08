@@ -6,8 +6,8 @@ Ovaj repozitorij sadrži implementaciju različitih grafova i dijagrama u termin
 - [**Termgraph**](https://github.com/mkaz/termgraph) 
 
 ##  Kreirani dijagrami pomoću navedenih biblioteka
-- Horizontalni i vertikalni stupčasti dijagram
-- Grupirani i složeni stupčasti dijagram  
+- Horizontalni i vertikalni stupčasti dijagram 
+- Grupirani (eng. _grouped_) i složeni (eng. _stacked_) stupčasti dijagram  
 - Horizontalna i vertikalna vremenska vrpca
 - Histogrami (horizontalni i vertikalni)  
 
