@@ -6,4 +6,6 @@
 #termgraph termgraph_podaci_za_grafove/vremenska_vrpca.dat --title "Raspored-Vertikalna vremenska vrpca" --color 'blue' --width 60 --custom-tick '█' --format '{:>3.0f} min' --vertical
 #termgraph termgraph_podaci_za_grafove/histogram_podaci.dat --histogram --bins 10 --width 60 --title "Dobne skupine 2021-Histogram" --color 'blue'
 #termgraph termgraph_podaci_za_grafove/histogram_podaci.dat --histogram --bins 10 --width 60 --title "Dobne skupine 2021 (V)" --vertical
+
 #vertikalni histogram nije podržan
+#linije koda direktno unositi u terminal
