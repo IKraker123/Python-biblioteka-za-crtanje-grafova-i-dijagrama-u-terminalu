@@ -1,0 +1,13 @@
+Pon 08:00-10:00 Primjena_UI_u_poslovanju,120
+Pon 10:00-12:00 Otkrivanje_znanja_u_podacima,120
+Pon 15:30-17:00 Primjena_UI_u_poslovanju,90
+Uto 10:00-12:00 Komuniciranje_i_virtualni_timovi,120
+Uto 13:00-15:00 Inteligentni_interaktivni_sustavi,120
+Sri 15:00-16:00 Inteligentni_interaktivni_sustavi,60
+Cet 08:00-09:00 Komuniciranje_i_virtualni_timovi,60
+Cet 18:30-20:00 Otkrivanje_znanja_u_podacima,90
+
+
+
+
+#Prvi stupac može biti string, ali ostali se pretvaraju u float
