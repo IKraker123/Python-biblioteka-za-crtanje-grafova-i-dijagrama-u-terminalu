@@ -6,11 +6,10 @@ Ovaj repozitorij sadrži implementaciju različitih grafova i dijagrama u termin
 - [**Termgraph**](https://github.com/mkaz/termgraph) 
 
 ##  Kreirani dijagrami pomoću navedenih biblioteka
-- Horizontalni i vertikalni bar chartovi  
-- Grouped i stacked bar chartovi  
-- Horizontalni i vertikalni timeline  
+- Horizontalni i vertikalni stupčasti dijagram
+- Grupirani i složeni stupčasti dijagram  
+- Horizontalna i vertikalna vremenska vrpca
 - Histogrami (horizontalni i vertikalni)  
-- Kalendarska toplinska mapa
 
 ## Sadržaj repozitorija 
 - rich_dijagrami.py (navedeni dijagrami kreirani pomoću biblioteke Rich)
