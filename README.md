@@ -16,3 +16,4 @@ Ovaj repozitorij sadrži implementaciju različitih grafova i dijagrama u termin
 - rich_dijagrami.py (navedeni dijagrami kreirani pomoću biblioteke Rich)
 - plotext_dijagrami.py (navedeni dijagrami kreirani pomoću biblioteke Plotext)
 - termgraph_dijagrami.py (navedeni dijagrami kreirani pomoću biblioteke Termgraph)
+- termgraph_podaci_za_grafove (mapa u kojoj se nalaze podaci za dijgrame kreirane pomoću biblioteke Termgragph)
