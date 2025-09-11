@@ -1,5 +1,8 @@
 # TERMGRAPH – dijagrami kreirani pomoću biblioteke Termgraph
 # Kod unositi izravno u terminal, sve osim znaka #
+# Pošto biblioteka Termgraph ima problema s ispisivanjem dijakritičkih znakova kreirani su podaci bez njih nazvani:
+# stup_dij_bez_kvacica.dat i grup_stup_bez_kvacica.dat, prvi podaci se koristi za horiz. i vert. stupčasti dijagram, a drugi za grupirani stupčasti dijagram
+# pa ako želite koristiti njih samo promijenite relativnu putanju u kodu
 
 # Horizontalni stupcasti dijagram
 #termgraph termgraph_podaci_za_grafove/stupcasti_dijagram.dat --title "Županije 2021 (H)" --color 'red'
@@ -24,3 +27,4 @@
 
 #vertikalni histogram nije podržan
 #termgraph termgraph_podaci_za_grafove/histogram_podaci.dat --histogram --bins 10 --width 60 --title "Dobne skupine 2021 (V)" --vertical
+
