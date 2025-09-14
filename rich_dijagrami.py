@@ -238,7 +238,7 @@ def horizontalni_histogram(broj_intervala = 10):
         console.print(f"{lab:<{sirina_oznake}} ", graf, f" {broj_vrijednosti:>5}  {postotak:5.2f}%", sep="")
 
 
-def vertikalni_histogram(broj_intervala = 20, visina=20):
+def vertikalni_histogram(broj_intervala = 10, visina=20):
     gmin, gmax = min(podaci_za_histogram), max(podaci_za_histogram)
     if gmin == gmax: gmin, gmax = gmin - 1, gmax + 1
     korak = (gmax - gmin + 1) / broj_intervala
@@ -292,4 +292,5 @@ def vertikalni_histogram(broj_intervala = 20, visina=20):
 #horizontalni_histogram()
 
 #ispis_naslova("HISTOGRAM vertikalni")
+
 #vertikalni_histogram()
